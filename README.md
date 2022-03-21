@@ -1,3 +1,3 @@
 # nextd
 
-next drupal for start with search
+next drupal to start with search
